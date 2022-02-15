@@ -1,0 +1,150 @@
+
+SpaceSHOOTER.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+DarkPurple
+  rotate: false
+  xy: 1476, 548
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Pause
+  rotate: false
+  xy: 1084, 202
+  size: 390, 300
+  orig: 390, 300
+  offset: 0, 0
+  index: -1
+Resume
+  rotate: false
+  xy: 1486, 1699
+  size: 390, 300
+  orig: 390, 300
+  offset: 0, 0
+  index: -1
+Starscape00
+  rotate: false
+  xy: 2, 79
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+Start
+  rotate: false
+  xy: 1084, 504
+  size: 390, 300
+  orig: 390, 300
+  offset: 0, 0
+  index: -1
+Untitled-1
+  rotate: false
+  xy: 1084, 1199
+  size: 400, 800
+  orig: 400, 800
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 1476, 290
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+enemyRed4
+  rotate: false
+  xy: 1084, 116
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 1486, 1397
+  size: 390, 300
+  orig: 390, 300
+  offset: 0, 0
+  index: -1
+laserBlue01
+  rotate: false
+  xy: 1486, 1341
+  size: 9, 54
+  orig: 9, 54
+  offset: 0, 0
+  index: -1
+laserRed01
+  rotate: false
+  xy: 1476, 234
+  size: 9, 54
+  orig: 9, 54
+  offset: 0, 0
+  index: -1
+night-sky-background-with-stars_104785-147
+  rotate: false
+  xy: 1084, 806
+  size: 626, 391
+  orig: 626, 391
+  offset: 0, 0
+  index: -1
+playerLife3_blue
+  rotate: false
+  xy: 1878, 1834
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+playerShip2_green
+  rotate: false
+  xy: 2, 2
+  size: 112, 75
+  orig: 112, 75
+  offset: 0, 0
+  index: -1
+shield3
+  rotate: false
+  xy: 1878, 1862
+  size: 144, 137
+  orig: 144, 137
+  offset: 0, 0
+  index: -1
+
+SpaceSHOOTER2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Starscape01
+  rotate: false
+  xy: 2, 2
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+
+SpaceSHOOTER3.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Starscape03
+  rotate: false
+  xy: 2, 2
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+
+SpaceSHOOTER4.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Starscape02
+  rotate: false
+  xy: 2, 2
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
